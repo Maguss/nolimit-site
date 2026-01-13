@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "No Limit Studio",
   description: "有序的混乱是你的超能力",
-  outDir: '../dist',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'No Limit Studio', // 左上角品牌名
